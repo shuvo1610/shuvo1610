@@ -39,9 +39,10 @@ Hi! My name is [Md. Mashuir Rahman](https://github.com/shuvo1610). Thank You for
 </p>
 <br>
 
-| ![Md. Mashuir Rahman's github stats](https://github.com/shuvo1610) | ![Md. Mashuir Rahman's GitHub Streak](https://github.com/shuvo1610) |
-| ------------------------------------------------------------------ | ------------------------------------------------------------------- |
+| [![Shakher Ahmmed's github stats](https://github-readme-stats.vercel.app/api?username=bdsaiket&show_icons=true&theme=react)](https://github.com/bdsaiket) | [![Shakher Ahmmed's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bdsaiket&theme=react)](https://github.com/bdsaiket) |
+| --- | --- |
 
 <br>
+
 
 <!-- ![Md. Mashuir Rahman's GitHub Activity Graph](https://github.com/shuvo1610) -->
